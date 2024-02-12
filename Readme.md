@@ -1,7 +1,8 @@
 # SWE 212 DISTRIBUTED INFORMATION AND MANAGEMENT
 
-Please click link below to see the projects: <br>
-[SWE212 Project Descriptions](SWE212_ProjectDescriptions_2024.pdf)
+Please click the link below to see the projects: <br>
+[SWE212 Project Descriptions](SWE212_ProjectDescriptions_2024.pdf) <br>
+Each group must select one unique project. Group projects will be different. 
 
 ## General rules for grading:
 * Groups are allowed 10 minutes to present their work.
