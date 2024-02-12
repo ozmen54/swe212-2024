@@ -1,9 +1,9 @@
-## SWE 212 DISTRIBUTED INFORMATION AND MANAGEMENT
+# SWE 212 DISTRIBUTED INFORMATION AND MANAGEMENT
 
 Please click link below to see the projects: <br>
 [SWE212 Project Descriptions](SWE212_ProjectDescriptions_2024.pdf)
 
-# General rules for grading:
+## General rules for grading:
 * Groups are allowed 10 minutes to present their work.
 * Groups are called to present their work based on a random number announced in the class. 
 * One person can be a speaker or members can present stages separately in one session.
