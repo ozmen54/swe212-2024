@@ -5,7 +5,7 @@ Please click the link below to see the projects: <br>
 Each group must select one unique project. Group projects will be different. 
 
 ## Project 1: 
-![Project 1](pro1.pdf)
+<a href="pro1.pdf">Project 1</a>
 
 ## General rules for grading:
 * Groups are allowed 10 minutes to present their work.
