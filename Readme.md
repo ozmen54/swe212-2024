@@ -4,6 +4,9 @@ Please click the link below to see the projects: <br>
 [SWE212 Project Descriptions](SWE212_ProjectDescriptions_2024.pdf) <br>
 Each group must select one unique project. Group projects will be different. 
 
+## Project 1: 
+![Project 1](pro1.pdf)
+
 ## General rules for grading:
 * Groups are allowed 10 minutes to present their work.
 * Groups are called to present their work based on a random number announced in the class. 
