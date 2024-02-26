@@ -41,7 +41,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
     <tr>
       <td>3</td>
-      <td><b>JWT security with file upload and download.</b></td>
+      <td><b>JWT security with file upload.</b></td>
       <td>
         <b>a)</b> You will use Project 2 study as base for this project. However, the build tool will be Gradle in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
@@ -64,14 +64,3 @@ Each group must select one unique project. Group projects will be different.
 * Group members help each other to hook their computer to the projector quickly.
 * Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
 
-
-## Project 1: 
-<a href="pro1.pdf">Project 1</a>
-
-## General rules for grading:
-* Groups are allowed 10 minutes to present their work.
-* Groups are called to present their work based on a random number announced in the class. 
-* One person can be a speaker or members can present stages separately in one session.
-* All group members are expected on the board while presenting. Absent members will be penalized according to excuse.
-* Group members help each other to hook their computer to the projector quickly.
-* Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
