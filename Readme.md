@@ -47,7 +47,7 @@ Each group must select one unique project. Group projects will be different.
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
         <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
         <b>d)</b> Show that user image file upload and showing them in the web works. <br>
-        <b>d)</b> Show that your application runs as expected.
+        <b>e)</b> Show that your application runs as expected.
       </td>
       <td>21 May 2024<br>(Last week)</td>
       <td></td>
