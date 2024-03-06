@@ -37,7 +37,7 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Show that your application runs as required.
       </td>
       <td>16 April 2024 <br>(After the holiday)</td>
-      <td></td>
+      <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
