@@ -32,9 +32,10 @@ Each group must select one unique project. Group projects will be different.
       <td><b>Database first web application development.</b></td>
       <td>
         <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool.<br> 
-        <b>b)</b> Use Hibernate (JPA) to associate your GUIs with DB tables. Create relations properly in your model section.<br>
-        <b>c)</b> Use Thymeleaf template engine for sending objects to your GUIs.<br>
-        <b>d)</b> Show that your application runs as required.
+        <b>b)</b> Use Hibernate (JPA) to associate your views with DB tables. Create entity classes properly in your model section using Lombok.<br>
+        <b>c)</b> Use PostgreSQL as database server.<br>
+        <b>d)</b> Use Thymeleaf template engine for sending objects to your views.<br>
+        <b>e)</b> Show that your application runs as required.
       </td>
       <td>16 April 2024 <br>(After the holiday)</td>
       <td><a href="pro2.pdf">Project2</a></td>
