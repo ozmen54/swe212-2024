@@ -51,7 +51,7 @@ Each group must select one unique project. Group projects will be different.
         <b>e)</b> Show that your application runs as expected.
       </td>
       <td>21 May 2024<br>(Last week)</td>
-      <td></td>
+      <td><a href="pro3.pdf">Project3</a></td>
     </tr>
   </body>
 </table>
